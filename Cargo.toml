@@ -1,0 +1,10 @@
+[workspace.package]
+name = "anunaya-consensus"
+version = "0.1.0"
+edition = "2024"
+
+[workspace]
+members = ["networking"]
+
+
+[workspace.dependencies]
